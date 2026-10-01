@@ -1,0 +1,9 @@
+[mgr]
+
+prepend_keymap = [
+  { on = [ "g", "t" ], run = "cd /run/user/1000/gvfs", desc = "Go to GVFS" },
+  { on = [ "g", "u" ], run = "cd /run/media/sajad/", desc = "Go to USB" },
+  { on = [ "g", "p" ], run = "cd /home/sajad/Programming/", desc = "Go to Programming Dir" },
+
+]
+
