@@ -1,0 +1,18 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "Y labels",
+    "shortcut": "",
+    "tag": [
+        "\\foreach \\y in {%<p%>} {",
+        "\t\\node[left=5pt] at (0, \\y) {$\\y$};",
+        "}"
+    ],
+    "trigger": "/ylab",
+    "type": "Snippet"
+}

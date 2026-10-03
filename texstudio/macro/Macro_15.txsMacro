@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "Label",
+    "shortcut": "",
+    "tag": [
+        "\\node[%<right%>] at (%<p%>) {%<p%>};"
+    ],
+    "trigger": "/lab",
+    "type": "Snippet"
+}

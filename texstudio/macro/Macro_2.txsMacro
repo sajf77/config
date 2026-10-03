@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "X-axis",
+    "shortcut": "",
+    "tag": [
+        "\\draw (%<p%>, 0) -- (%<p%>, 0) node[below left, xshift=6pt] {%<$x$%>};"
+    ],
+    "trigger": "/xax",
+    "type": "Snippet"
+}

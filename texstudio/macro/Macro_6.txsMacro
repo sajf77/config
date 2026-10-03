@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "Y ticks",
+    "shortcut": "",
+    "tag": [
+        "\\foreach \\y in {%<p%>} {\\draw (0, \\y) -- (-0.2/\\xscale, \\y);}"
+    ],
+    "trigger": "/yti",
+    "type": "Snippet"
+}

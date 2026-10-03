@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "Fill Polar",
+    "shortcut": "",
+    "tag": [
+        "plot[domain=%<p%>:%<p%>, samples=%<p%>] ({%<p%>}:{%<p%>})"
+    ],
+    "trigger": "/fpol",
+    "type": "Snippet"
+}

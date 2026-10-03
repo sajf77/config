@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "Polar Plot",
+    "shortcut": "",
+    "tag": [
+        "\\draw[color=%<black%>, domain=%<p%>:%<p%>, samples=%<p%>, very thick] plot ({%<p%>} : {%<p%>});"
+    ],
+    "trigger": "/polar",
+    "type": "Snippet"
+}

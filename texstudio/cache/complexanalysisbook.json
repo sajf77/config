@@ -1,0 +1,26 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+    ],
+    "childdocs": [
+        "/home/sajad/Programming/LaTeX/ComplexAnalysisBook/chapter1.tex",
+        "/home/sajad/Programming/LaTeX/ComplexAnalysisBook/arabicTemplate.tex",
+        "/home/sajad/Programming/LaTeX/ComplexAnalysisBook/titlepage.tex"
+    ],
+    "filename": "/home/sajad/Programming/LaTeX/ComplexAnalysisBook/complexanalysisbook.tex",
+    "labels": [
+    ],
+    "modified": "Fri Oct 2 16:02:10 2026",
+    "packages": [
+    ],
+    "refs": [
+    ],
+    "toc": [
+        "-1#arabicTemplate#2",
+        "-1#titlepage#7",
+        "-1#chapter1#11"
+    ],
+    "usercommands": [
+    ]
+}

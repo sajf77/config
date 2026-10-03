@@ -1,0 +1,17 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "Origin Label",
+    "shortcut": "",
+    "tag": [
+        "\\node[below left, xshift=2, yshift=2] at (0, 0) {%<$O$%>} coordinate (O);",
+        ""
+    ],
+    "trigger": "/ori",
+    "type": "Snippet"
+}

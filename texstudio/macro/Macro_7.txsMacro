@@ -1,0 +1,18 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "X labels",
+    "shortcut": "",
+    "tag": [
+        "\\foreach \\x in {%<p%>} {",
+        "\t\\node[below=5pt] at (\\x, 0) {$\\x$};",
+        "}"
+    ],
+    "trigger": "/xlab",
+    "type": "Snippet"
+}

@@ -1,0 +1,218 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+    ],
+    "childdocs": [
+    ],
+    "filename": "/home/sajad/Programming/LaTeX/ComplexAnalysisBook/chapter1.tex",
+    "labels": [
+    ],
+    "modified": "Fri Oct 2 16:02:10 2026",
+    "packages": [
+    ],
+    "refs": [
+    ],
+    "toc": [
+        "1#الأعداد العقدية#0",
+        "2#مقدمة#3",
+        "2#تعريف الأعداد العقدية#10",
+        "2#تمثيل الأعداد العقدية هندسياً#18",
+        "2#العمليات على الأعداد العقدية#93",
+        "3#خصائص العمليات على الأعداد العقدية#122",
+        "2#القيمة المطلقة للعدد العقدي#173",
+        "2#مرافق العدد العقدي#198",
+        "3#خصائص مرافق العدد العقدي#225",
+        "2#الصيغة القطبية والأسية للعدد العقدي#252"
+    ],
+    "usercommands": [
+        [
+            "\\x",
+            "\\x"
+        ],
+        [
+            "\\yscale",
+            "\\yscale"
+        ],
+        [
+            "\\x",
+            "\\x"
+        ],
+        [
+            "\\x",
+            "\\x"
+        ],
+        [
+            "\\xscale",
+            "\\xscale"
+        ],
+        [
+            "",
+            "\\overline{z}"
+        ],
+        [
+            "",
+            "\\overline{z}"
+        ],
+        [
+            "",
+            "\\overline{z}"
+        ],
+        [
+            "",
+            "\\overline{z}"
+        ],
+        [
+            "",
+            "\\overline{(x + iy)}"
+        ],
+        [
+            "",
+            "\\overline{z}"
+        ],
+        [
+            "\\y",
+            "\\y"
+        ],
+        [
+            "\\xscale",
+            "\\xscale"
+        ],
+        [
+            "\\xscale",
+            "\\xscale"
+        ],
+        [
+            "",
+            "\\overline{z_2}"
+        ],
+        [
+            "",
+            "\\overline{z_1}"
+        ],
+        [
+            "",
+            "\\overline{(z_1/z_2)}"
+        ],
+        [
+            "\\xscale",
+            "\\xscale"
+        ],
+        [
+            "",
+            "\\overline{z}"
+        ],
+        [
+            "",
+            "\\overline{z}"
+        ],
+        [
+            "\\yscale",
+            "\\yscale"
+        ],
+        [
+            "\\yscale",
+            "\\yscale"
+        ],
+        [
+            "",
+            "\\overline{z_2}"
+        ],
+        [
+            "",
+            "\\overline{z_1}"
+        ],
+        [
+            "",
+            "\\overline{z_1 - z_2}"
+        ],
+        [
+            "",
+            "\\overline{z_2}"
+        ],
+        [
+            "",
+            "\\overline{z_1}"
+        ],
+        [
+            "",
+            "\\overline{z_1 + z_2}"
+        ],
+        [
+            "\\x",
+            "\\x"
+        ],
+        [
+            "",
+            "\\overline{z}"
+        ],
+        [
+            "\\yscale",
+            "\\yscale"
+        ],
+        [
+            "\\y",
+            "\\y"
+        ],
+        [
+            "\\xscale",
+            "\\xscale"
+        ],
+        [
+            "",
+            "\\overline{z}"
+        ],
+        [
+            "\\yscale",
+            "\\yscale"
+        ],
+        [
+            "\\xscale",
+            "\\xscale"
+        ],
+        [
+            "\\z",
+            "\\z"
+        ],
+        [
+            "",
+            "\\tag{*}"
+        ],
+        [
+            "\\x",
+            "\\x"
+        ],
+        [
+            "",
+            "\\overline{x - iy}"
+        ],
+        [
+            "",
+            "\\overline{x + iy}"
+        ],
+        [
+            "",
+            "\\overline{\\overline{x + iy}}"
+        ],
+        [
+            "",
+            "\\overline{z}"
+        ],
+        [
+            "",
+            "\\overline{\\overline{z}}"
+        ],
+        [
+            "\\yscale",
+            "\\yscale"
+        ],
+        [
+            "",
+            "\\overline{z}"
+        ],
+        [
+            "\\z",
+            "\\z"
+        ]
+    ]
+}

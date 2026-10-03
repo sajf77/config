@@ -1,0 +1,20 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "TikZ",
+    "shortcut": "",
+    "tag": [
+        "\\def\\xscale{%<p%>}",
+        "\\def\\yscale{%<p%>}",
+        "\\begin{tikzpicture}[x=\\xscale cm, y=\\yscale cm, thick]",
+        "\t%<content%>",
+        "\\end{tikzpicture}"
+    ],
+    "trigger": "/tikz",
+    "type": "Snippet"
+}

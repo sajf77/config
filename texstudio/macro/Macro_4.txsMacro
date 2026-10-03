@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "Coordinates",
+    "shortcut": "",
+    "tag": [
+        "\\coordinate (%<p%>) at (%<p%>);"
+    ],
+    "trigger": "/coor",
+    "type": "Snippet"
+}

@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "Arrow Line ",
+    "shortcut": "",
+    "tag": [
+        "\\draw[-tri, shorten >= 2pt, very thick] (%<p%>) -- (%<p%>);"
+    ],
+    "trigger": "/arr",
+    "type": "Snippet"
+}

@@ -1,0 +1,18 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "",
+    "name": "Exercises",
+    "shortcut": "",
+    "tag": [
+        "\\begin{exercises}",
+        "\t%<content%>",
+        "\\end{exercises}"
+    ],
+    "trigger": "/ex",
+    "type": "Snippet"
+}

@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "Line",
+    "shortcut": "",
+    "tag": [
+        "\\draw[color=%<black%>, very thick] (%<p%>) -- (%<p%>);"
+    ],
+    "trigger": "/lin",
+    "type": "Snippet"
+}

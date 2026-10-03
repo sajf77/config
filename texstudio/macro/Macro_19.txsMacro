@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "Arc",
+    "shortcut": "",
+    "tag": [
+        "\\draw[%<options%>] (%<center%>) ++(%<A%>:%<R%>) arc[start angle=%<A%>, end angle=%<B%>, radius=%<R%>];"
+    ],
+    "trigger": "/arc",
+    "type": "Snippet"
+}

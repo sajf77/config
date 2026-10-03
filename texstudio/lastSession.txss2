@@ -1,0 +1,40 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "../../Programming/LaTeX/ComplexAnalysisBook/complexanalysisbook.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "../../Programming/LaTeX/ComplexAnalysisBook/chapter1.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../Programming/LaTeX/ComplexAnalysisBook/complexanalysisbook.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 12
+            },
+            {
+                "Col": 36,
+                "EditorGroup": 0,
+                "FileName": "../../Programming/LaTeX/ComplexAnalysisBook/chapter1.tex",
+                "FirstLine": 273,
+                "FoldedLines": "",
+                "Line": 276
+            },
+            {
+                "Col": 12,
+                "EditorGroup": 0,
+                "FileName": "../../Programming/LaTeX/ComplexAnalysisBook/arabicTemplate.tex",
+                "FirstLine": 95,
+                "FoldedLines": "",
+                "Line": 103
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": false
+    }
+}

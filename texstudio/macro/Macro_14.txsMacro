@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "Marks",
+    "shortcut": "",
+    "tag": [
+        "\\fill (%<x,y%>) circle (2.5pt);"
+    ],
+    "trigger": "/mark",
+    "type": "Snippet"
+}

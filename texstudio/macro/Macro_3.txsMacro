@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "checkState": 2,
+    "description": [
+        ""
+    ],
+    "formatVersion": 2,
+    "menu": "TikZ",
+    "name": "Y-axis",
+    "shortcut": "",
+    "tag": [
+        "\\draw (0, %<p%>) -- (0, %<p%>) node[below left, yshift=3pt] {%<$y$%>};"
+    ],
+    "trigger": "/yax",
+    "type": "Snippet"
+}
